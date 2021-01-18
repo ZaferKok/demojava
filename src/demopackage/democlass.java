@@ -8,5 +8,6 @@ public class democlass {
         System.setProperty("webdriver.chrome.driver","C:\\Users\\CIMBOM\\Documents\\selenium dependencies\\drivers\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
+        System.out.println("Alles klar!");
     }
 }
