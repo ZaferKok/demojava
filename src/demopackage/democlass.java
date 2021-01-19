@@ -9,5 +9,6 @@ public class democlass {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
         System.out.println("Alles klar!");
+        System.out.println("Ja!");
     }
 }
